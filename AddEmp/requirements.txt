@@ -1,0 +1,15 @@
+asn1crypto
+cffi
+Click
+cryptography
+enum34
+Flask
+idna
+ipaddress
+itsdangerous
+Jinja2
+MarkupSafe
+pycparser
+PyMySQL
+six
+Werkzeug
